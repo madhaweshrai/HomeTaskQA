@@ -1,0 +1,4 @@
+2022-06-15 23:56:20,718 +0530 [main] INFO  (TestClass1.java:14) - start
+2022-06-15 23:56:20,721 +0530 [main] ERROR (TestClass1.java:16) - error
+2022-06-15 23:56:20,722 +0530 [main] FATAL (TestClass1.java:17) - fatel
+2022-06-15 23:56:20,722 +0530 [main] INFO  (TestClass1.java:18) - end
